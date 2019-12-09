@@ -27,10 +27,10 @@ All of the files used for the backend are in the folder named "backend" while al
         * GET requests at:
             * **/characters/** - get all characters
             * **/character/<int:id>/** - get a specific character
-            * **/character/recent/** - get the most recently created character
         * POST request at:
             * **/character/** - create a create a character
             * **/character/<int:id>/** - edit a specific character
         * DELETE request at:
             * **/character/<int:id>/** - delete a specific character
+        * All of these requests can be called from Postman and the results will show on any iOS device. For example, if you call a DELETE request from Postman, as soon as the iPhone device reloads, it will delete the character from the CollectionView 
             
