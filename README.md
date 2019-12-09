@@ -13,14 +13,15 @@ Create and view RPG-styled characters created by users. With no characters the s
 
 ![Screenshot2](images/first.png)
 
-We can add characters to our screen by tapping on the big, blue "Create" Button, which navigates us to the page where users may create a character. Use the arrows at the top to choose which aspect of your character you want to change. Users are able to customize characters outfits, eyes, hairstyles, and among other assets. 
+Let's fix this by adding characters to our screen by tapping on the big, blue "Create" Button. This navigates us to the page where users may create a character. Use the arrows at the top to choose which aspect of your character you want to change. Users are able to customize characters outfits, eyes, hairstyles, and among many other assets. 
 
 ![Screenshot3](images/third.png)
 
-When users are satisfied with their creations, they can hit the "save" button in the top right in order to add their new RPG character to the UICollectionView, for all other users to see. Scroll vertically to see all the different created characters!
+When users are satisfied with their creations, they can hit the "save" button in the top right in order to add their new RPG character to the UICollectionView, for all other users to see. 
 
 ![Screenshot4](images/fourth.png)
 
+Swipe vertically on the UICollectionView to browse all user-created characters!
 
 ## Submitted Scope (for our graders)
 All of the files used for the backend are in the folder named "backend" while all of the files for iOS are found in the folder named "CharacterCreator"
