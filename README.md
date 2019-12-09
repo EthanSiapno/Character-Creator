@@ -9,7 +9,8 @@ Design your own RPG-styled character!
 ## Our App
 Create and view RPG-styled characters created by users. Click on the "Create" Button to navigate to the page where you create a character. Use the arrows at the top to choose which aspect of your character you want to change. Users are able to customize characters outfits, eyes, hairstyles, and among other assets. When users are satisfied with their creations, they can hit "save" in order to add their new RPG character to the UICollectionView, for all other users to see.
 
-[Imgur](https://imgur.com/kEZKf0r)
+
+[Screenshot4](https://i.imgur.com/kEZKf0r.png)
 
 
 All of the files used for the backend are in the folder named "backend" while all of the files for iOS are found in the folder named "CharacterCreator"
