@@ -9,6 +9,10 @@ Design your own RPG-styled character!
 ## Our App
 Create and view RPG-styled characters created by users. Click on the "Create" Button to navigate to the page where you create a character. Use the arrows at the top to choose which aspect of your character you want to change. Users are able to customize characters outfits, eyes, hairstyles, and among other assets. When users are satisfied with their creations, they can hit "save" in order to add their new RPG character to the UICollectionView, for all other users to see.
 
+
+[Screenshot4](https://i.imgur.com/kEZKf0r.png)
+
+
 All of the files used for the backend are in the folder named "backend" while all of the files for iOS are found in the folder named "CharacterCreator"
 
 ## Submitted Scope (for our graders)
@@ -27,10 +31,10 @@ All of the files used for the backend are in the folder named "backend" while al
         * GET requests at:
             * **/characters/** - get all characters
             * **/character/<int:id>/** - get a specific character
-            * **/character/recent/** - get the most recently created character
         * POST request at:
             * **/character/** - create a create a character
             * **/character/<int:id>/** - edit a specific character
         * DELETE request at:
             * **/character/<int:id>/** - delete a specific character
+        * All of these requests can be called from Postman and the results will show on any iOS device. For example, if you call a DELETE request from Postman, as soon as the iPhone device reloads, it will delete the character from the CollectionView 
             
