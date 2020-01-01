@@ -1,6 +1,8 @@
 # RPG Character Creator
 Design your own RPG-styled character!
 
+Among over 30 groups in the course, only four apps would be recognized for going above and beyond expectations. Our project won the "Best Media App" category, which challenged us to creatively integrate any form of media (images, audio, social media, etc.). For this reason, each member of our group had been awarded an Amazon Echo Dot.
+
 ![Screenshot1](images/second.png)
 
 ## Appdev Hack Challenge Fall 2019 Team Members
